@@ -1525,10 +1525,26 @@
                     },
                     {
                       "key": {
+                        "symbol": "exec_deadline"
+                      },
+                      "val": {
+                        "u64": 0
+                      }
+                    },
+                    {
+                      "key": {
                         "symbol": "id"
                       },
                       "val": {
                         "u64": 1
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "policy_version"
+                      },
+                      "val": {
+                        "u32": 0
                       }
                     },
                     {
@@ -1686,10 +1702,26 @@
                     },
                     {
                       "key": {
+                        "symbol": "exec_deadline"
+                      },
+                      "val": {
+                        "u64": 0
+                      }
+                    },
+                    {
+                      "key": {
                         "symbol": "id"
                       },
                       "val": {
                         "u64": 2
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "policy_version"
+                      },
+                      "val": {
+                        "u32": 0
                       }
                     },
                     {
@@ -1847,10 +1879,26 @@
                     },
                     {
                       "key": {
+                        "symbol": "exec_deadline"
+                      },
+                      "val": {
+                        "u64": 0
+                      }
+                    },
+                    {
+                      "key": {
                         "symbol": "id"
                       },
                       "val": {
                         "u64": 3
+                      }
+                    },
+                    {
+                      "key": {
+                        "symbol": "policy_version"
+                      },
+                      "val": {
+                        "u32": 0
                       }
                     },
                     {

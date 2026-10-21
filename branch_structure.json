@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/governance-treasury-execution",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/governance-treasury-execution": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/governance-treasury-execution",
+    "origin"
+  ]
+}
